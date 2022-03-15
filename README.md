@@ -1,2 +1,2 @@
 # Black-Jack-Version-1.0
- Le game.
+ This branch contains the prototype menu system to be used in the full game!
